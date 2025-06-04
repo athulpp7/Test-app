@@ -6,7 +6,7 @@ import './index.css'
 // ✅ Import and initialize FullStory
 import * as FullStory from '@fullstory/browser'
 
-FullStory.init({ orgId: 'YOUR_ORG_ID' })
+FullStory.init({ orgId: 'o-22QH3G-na1' })
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
